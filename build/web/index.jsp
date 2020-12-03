@@ -12,7 +12,7 @@
         <title>JSP Page</title>
     </head>
     <body>
-        <h1>Avelina's main page</h1>
+        <h1>Avelina's main page test</h1>
         
         <div><%@include file="header.html" %> </div>
         <div><%@include file="footer.html" %> </div>
